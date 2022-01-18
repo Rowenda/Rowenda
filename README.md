@@ -1,10 +1,14 @@
-### Hi there 👋
+<h1 align="center">👋 Hello, I'm Baptiste, welcome to my GitHub page</h1>
+<h3 align="center"> *I'm a french web developper from south of France* </h3>
+
+<p align="left"> - 🔭 I’m currently working on personnal project to make a good portfolio </p>
+<p align="left">- 🌱 I’m currently still learning PHP and Symfoniy to improve my skills.</p>
+<p align="left">- 👯 I’m looking to collaborate on project with a positive impact.</p>
+<p align="left">- 💬 Ask me about my passion for history, my Dungeon Master experience.</p>
+- 📫 How to reach me: **baptiste.giorgi@gmail.com**
+  
 
 <!--
-**Rowenda/Rowenda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
