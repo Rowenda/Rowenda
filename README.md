@@ -23,7 +23,7 @@
 - 📫 How to reach me: **baptiste.giorgi@gmail.com**
   
   
-- :bookmark_tabs: You can found more on me on [www.linkedin.com/in/baptiste-giorgi](https://www.linkedin.com/in/baptiste-giorgi-8470881aa/)
+- :bookmark_tabs: You can found more on me on [https://www.linkedin.com/in/baptistegiorgi/](https://www.linkedin.com/in/baptistegiorgi/)
 
 ---
 <div align="center" >
